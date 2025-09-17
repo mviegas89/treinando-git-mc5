@@ -1,0 +1,4 @@
+acessar site
+digitar e-mail
+digitar senha
+clicar no botão de login
